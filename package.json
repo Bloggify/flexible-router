@@ -1,0 +1,38 @@
+{
+  "name": "bloggify-flexible-router",
+  "description": "A flexible router for Bloggify apps.",
+  "keywords": [
+    "bloggify",
+    "flexible",
+    "router",
+    "a",
+    "for",
+    "apps"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/Bloggify/bloggify-flexible-router#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-flexible-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bloggify/bloggify-flexible-router/issues"
+  }
+}
