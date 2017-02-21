@@ -25,9 +25,7 @@ console.log(bloggifyFlexibleRouter());
 ## :memo: Documentation
 
 
-### `bloggifyFlexibleRouter(a, b)`
-A flexible router for Bloggify apps.
-
+### `bloggifyFlexibleRouter(a, b)`A flexible router for Bloggify apps.
 #### Params
 - **Number** `a`: Param descrpition.
 - **Number** `b`: Param descrpition.
