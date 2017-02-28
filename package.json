@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
-  "homepage": "https://github.com/Bloggify/bloggify-flexible-router#readme",
+  "homepage": "https://github.com/Bloggify/flexible-router#readme",
   "files": [
     "bin/",
     "app/",
@@ -30,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Bloggify/bloggify-flexible-router.git"
+    "url": "git+ssh://git@github.com/Bloggify/flexible-router.git"
   },
   "bugs": {
-    "url": "https://github.com/Bloggify/bloggify-flexible-router/issues"
+    "url": "https://github.com/Bloggify/flexible-router/issues"
   },
   "dependencies": {
     "fs-file-tree": "^1.0.2",
