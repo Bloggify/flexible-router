@@ -45,7 +45,8 @@
   "bloggify": {
     "config": {
       "routes_dir": "routes",
-      "controllers_dir": "controllers"
+      "controllers_dir": "controllers",
+      "error_pages": {}
     }
   }
 }
