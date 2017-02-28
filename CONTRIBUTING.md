@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/bloggify-flexible-router/issues
+[1]: https://github.com/Bloggify/bloggify-flexible-router/issues
 
 [2]: https://github.com/IonicaBizau/code-style
