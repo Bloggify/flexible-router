@@ -61,11 +61,22 @@ exports.get = (lien, cb) => {
 };
 ```
 
+## :question: Get Help
+
+There are few ways to get help:
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 ## :memo: Documentation
 
 
-### Plugin Configuration
+### `bloggify:init(config)`
 
+#### Params
+- **Object** `config`:
  - `routes_dir` (String): The path to the directory where the routes are stored. They should be randable view files. For dynamic routes, use the `_`character.
  - `controllers_dir` (String): The path to the controllers directory.
  - `error_pages` (Object): The error pages template names.
