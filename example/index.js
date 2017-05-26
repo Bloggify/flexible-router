@@ -1,6 +1,7 @@
 "use strict";
 
 // Config
+/*
 {
     "bloggify-flexible-router": {
         "controllers_dir": "app/controllers",
@@ -12,6 +13,7 @@
         }
     }
 }
+*/
 
 // The app/routes contains:
 // ├── 404.ajs
@@ -29,12 +31,17 @@ const USERS = {
     }
 };
 
-exports.get = (lien, cb) => {
-    const user = USERS[lien.params.user];
+// Before middleware
+exports.before = (ctx, cb) => { /* ... */  };
+
+// GET requests
+// You can use `all`, `post`, `get` etc.
+exports.get = (ctx, cb) => {
+    const user = USERS[ctx.params.user];
 
     // End with a 404 if the user is not found
     if (!user) {
-        return lien.next();
+        return ctx.next();
     }
 
     // Pass the data to the template
@@ -42,3 +49,6 @@ exports.get = (lien, cb) => {
         user
     });
 };
+
+// After middleware
+exports.after = (ctx, cb) => { /* ... */  };
