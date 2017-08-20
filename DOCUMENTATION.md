@@ -2,9 +2,8 @@
 
 You can see below the API reference of this module.
 
-### `bloggify:init(config)`
+### Plugin Configuration
 
-#### Params
 - **Object** `config`:
  - `routes_dir` (String): The path to the directory where the routes are stored. They should be randable view files. For dynamic routes, use the `_`character.
  - `controllers_dir` (String): The path to the controllers directory.
