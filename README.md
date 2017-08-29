@@ -71,6 +71,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
+ - [`bloggify`](https://github.com/Bloggify/Bloggify) (by Bloggify)—We make publishing easy.
  - [`bloggify-custom-app-template`](https://github.com/BloggifyTutorials/custom-app#readme)—A custom application built with @Bloggify.
 
 ## :scroll: License
