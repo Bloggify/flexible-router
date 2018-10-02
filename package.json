@@ -42,8 +42,7 @@
     "maybe-require": "^1.0.0",
     "methods": "^1.1.2",
     "set-or-get": "^1.2.6",
-    "typpy": "^2.3.6",
-    "upath": "^0.2.0"
+    "typpy": "^2.3.6"
   },
   "bloggify": {
     "config": {
