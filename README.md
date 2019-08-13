@@ -73,12 +73,6 @@ exports.post = ctx => ...
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`bloggify`](https://github.com/Bloggify/Bloggify) (by Bloggify)—We make publishing easy.
- - [`bloggify-cli`](https://github.com/Bloggify/Bloggify) (by Bloggify)—We make publishing easy.
 
 ## :scroll: License
 
