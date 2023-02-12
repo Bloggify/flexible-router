@@ -10,7 +10,7 @@
     "apps"
   ],
   "license": "MIT",
-  "version": "2.0.7",
+  "version": "2.1.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
